@@ -1,3 +1,4 @@
+[![Build Status](https://gilhdz.visualstudio.com/Pipelines/_apis/build/status/gil-ditsi.pipelines-java?branchName=master)](https://gilhdz.visualstudio.com/Pipelines/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
